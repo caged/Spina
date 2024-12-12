@@ -77,7 +77,6 @@ en:
         view_template: Page template
       spina/resource:
         label: Label
-        slug: Slug
         order_by: Order by
         parent_page: Parent page
         view_template: Default view template
